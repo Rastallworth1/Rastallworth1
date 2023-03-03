@@ -13,6 +13,9 @@
 
 - <b>Active Directory Homelab</b>
   - [Active Directory](https://github.com/Rastallworth1/Active-Directory) 
+- <b>Troubleshooting Steps</b>
+  - [Malware removal (From visiting a unsafe site, Malware was undetectable by antivirus)](https://github.com/Rastallworth1/Active-Directory) 
+
 
 
 <h2> 🤳 Connect with me:</h2>
