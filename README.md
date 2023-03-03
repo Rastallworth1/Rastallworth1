@@ -3,9 +3,9 @@
 <h2>👨‍IT Certifications:</h2>
 
 
-  - [Security +](https://github.com/joshmadakor1/Sentinel-LAB URL)
-  - [Network +](https://github.com/joshmadakor1/Jwipe.LAB URL)
-  - [Google IT Support](https://github.com/joshmadakor1[Reginald IT support.pdf](https://github.com/Rastallworth1/Rastallworth1/files/10877540/Reginald.IT.support.pdf)
+  - [Security +]([CompTIA Security+ ce certificate (1).pdf](https://github.com/Rastallworth1/Rastallworth1/files/10877593/CompTIA.Security%2B.ce.certificate.1.pdf))
+  - [Network +]([CompTIA Network+ ce certificate.pdf](https://github.com/Rastallworth1/Rastallworth1/files/10877582/CompTIA.Network%2B.ce.certificate.pdf)
+  - [Google IT Support]([Reginald IT support.pdf](https://github.com/Rastallworth1/Rastallworth1/files/10877540/Reginald.IT.support.pdf)
 )
   
 
