@@ -12,7 +12,7 @@
  <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory Homelab</b>
-  - [Active Directory](https://github.com/joshmadakor1/Algorithms-Practice) 
+  - [Active Directory](https://github.com/Rastallworth1/Active-Directory) 
 
 
 <h2> 🤳 Connect with me:</h2>
