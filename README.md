@@ -5,13 +5,14 @@
 
   - [Security +](https://github.com/joshmadakor1/Sentinel-LAB URL)
   - [Network +](https://github.com/joshmadakor1/Jwipe.LAB URL)
-  - [Google IT Support](https://github.com/joshmadakor1/LAB URP)
+  - [Google IT Support](https://github.com/joshmadakor1[Reginald IT support.pdf](https://github.com/Rastallworth1/Rastallworth1/files/10877540/Reginald.IT.support.pdf)
+)
   
 
  <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory Homelab</b>
-  - [Creating User Accounts](https://github.com/joshmadakor1/Algorithms-Practice) 
+  - [Active Directory](https://github.com/joshmadakor1/Algorithms-Practice) 
 
 
 <h2> 🤳 Connect with me:</h2>
