@@ -1,4 +1,6 @@
-<h1>Hi, I'm Reginald! <a href="https://www.linkedin.com/in/reginald-a-stallworth/">IT Professional</a> 
+<h1>Hi, I'm Reginald, Aspiring Information Technology Professional and Marine Corps Veteran leveraging 19+ years of proven experience in operations management. Skilled at managing costs, schedules, and performance with a demonstrated ability to deliver quality results. Proven ability to combine vision, ingenuity, and strong business acumen with well-developed project management and leadership qualities to support organizational effectiveness, reach, and overall expansion. Career supported by the pursuit of a Bachelor of Science in Information Technology and IT Certifications. Active Secret Security Clearance. 
+
+ </a> 
 
 <h2>👨‍IT Certifications:</h2>
 
@@ -14,6 +16,7 @@
 - <b>Active Directory Homelab</b>
   - [Creating a user account](https://github.com/Rastallworth1/Active-Directory-Creating-Users) 
   - [Creating and managing groups](https://github.com/Rastallworth1/Active-Directory-Creating-and-Managing-groups) 
+  - [Copying an account](https://github.com/Rastallworth1/Active-Directory-Creating-and-Managing-groups)
 - <b>Troubleshooting Steps</b>
   - [Malware removal (From visiting a unsafe site, Malware was undetectable by antivirus)](https://github.com/Rastallworth1/Malware-Trouble-Shooting) 
 
