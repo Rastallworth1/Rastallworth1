@@ -19,7 +19,7 @@
   - [Copying an account](https://github.com/Rastallworth1/Active-Directory-Copying-an-account)
 - <b>Troubleshooting </b>
   - [Malware removal (From visiting a unsafe site, Malware was undetectable by antivirus)](https://github.com/Rastallworth1/Malware-Trouble-Shooting) 
-  - [Command Line Commands](https://github.com/Rastallworth1/Malware-Trouble-Shooting) 
+  - [Command Line Commands](https://github.com/Rastallworth1/Command-Line-Commands) 
 
 
 <h2> 🤳 Connect with me:</h2>
