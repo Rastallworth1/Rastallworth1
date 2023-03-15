@@ -17,6 +17,7 @@
   - [Creating a user account](https://github.com/Rastallworth1/Active-Directory-Creating-Users) 
   - [Creating and managing groups](https://github.com/Rastallworth1/Active-Directory-Creating-and-Managing-groups) 
   - [Copying an account](https://github.com/Rastallworth1/Active-Directory-Copying-an-account)
+  - [Enabling an Administrator account](https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11)
 - <b>Troubleshooting </b>
   - [Malware removal (From visiting a unsafe site, Malware was undetectable by antivirus)](https://github.com/Rastallworth1/Malware-Trouble-Shooting) 
   - [Command Line Commands](https://github.com/Rastallworth1/Command-Line-Commands) 
