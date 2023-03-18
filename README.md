@@ -1,4 +1,4 @@
-<h1>Hi, I'm Reginald, Aspiring Information Technology Professional and Marine Corps Veteran leveraging 19+ years of proven experience in operations management. Skilled at managing costs, schedules, and performance with a demonstrated ability to deliver quality results. Proven ability to combine vision, ingenuity, and strong business acumen with well-developed project management and leadership qualities to support organizational effectiveness, reach, and overall expansion. Career supported by the pursuit of a Bachelor of Science in Information Technology and IT Certifications. Active Secret Security Clearance. 
+<h1>Hi, I'm Reginald, Aspiring Information Technology Professional and Marine Corps Veteran leveraging 19+ years of proven experience in leadership and personnel management. I am seeking to leverage my skills and experience to transition into the IT field. In my pursuit of a Bachelor of Science in Information Technology and through my home projects/labs and IT certifications, I have developed a passion for technology and honed my skills in troubleshooting, Active Directory management, and more. I am confident in my ability to support organizational effectiveness, reach, and overall expansion in the IT field. Active Secret Clearance. 
 
  </a> 
 
@@ -14,7 +14,7 @@
  <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory Homelab</b>
-  - [Group Policy Management : Password Policy & Account Lockout policy ](https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain)
+  - [Group Policy Management : Password Policy & Account Lockout Policy ](https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain)
   - [Creating a user account](https://github.com/Rastallworth1/Active-Directory-Creating-Users) 
   - [Creating and managing groups](https://github.com/Rastallworth1/Active-Directory-Creating-and-Managing-groups) 
   - [Copying an account](https://github.com/Rastallworth1/Active-Directory-Copying-an-account)
