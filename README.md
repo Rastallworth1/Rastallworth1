@@ -14,7 +14,7 @@
  <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory Homelab</b>
-  - [Group Policy Management:Password Policy & Account Lockout policy ](https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain)
+  - [Group Policy Management : Password Policy & Account Lockout policy ](https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain)
   - [Creating a user account](https://github.com/Rastallworth1/Active-Directory-Creating-Users) 
   - [Creating and managing groups](https://github.com/Rastallworth1/Active-Directory-Creating-and-Managing-groups) 
   - [Copying an account](https://github.com/Rastallworth1/Active-Directory-Copying-an-account)
